@@ -3,4 +3,4 @@ Git is a free software under the GPL.
 teat reset.
 Git has a mutable index called stade.
 60percent
-Creating a new branch.
+Creating a new branch and quick.
